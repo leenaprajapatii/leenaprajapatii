@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 **I’m currently working on:**  <br>Improving cloud-based solutions and implementing microservices architecture.<br><br>👯 **I’m looking to collaborate on:**  <br>Fullstack projects<br><br>🌱 **I’m currently learning:**  <br>Advanced AWS Services and GraphQL.<br><br>💬 **Ask me about:**  <br>JavaScript, React, Nextjs, Node.js, AWS, and any general software development questions.<br><br>⚡ **Fun fact:**  <br>I love creating content.
+🔭 **I’m currently working on:**  <br>Building dynamic and feature-rich Django projects with AI-powered functionalities and integrating cloud-based solutions.<br><br>👯 **I’m looking to collaborate on:**  <br>Full-stack projects, particularly those focused on Python, Django, and AI integrations.<br><br>🌱 **I’m currently learning:**  <br>Advancing in AI, machine learning, and scaling solutions with AWS.<br><br>💬 **Ask me about:**  <br>Django, Python, AI-powered web apps, cloud-based solutions, web development.<br><br>⚡ **Fun fact:**  <br>I’m always optimizing my code for performance while enjoying music, being in nature, and finding creative ways to integrate AI and machine learning into my projects.
 
 
 ## 🌐 Socials:
